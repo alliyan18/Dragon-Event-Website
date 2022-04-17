@@ -1,0 +1,719 @@
+/*THIS IS SUBMENU*/
+
+
+
+
+/*THIS IS THE LOGO START PORTION*/
+img{
+	height: 59px;
+	margin: 7px;
+	width: 120px;
+	border-radius: 10px;
+}
+
+.backg{
+	background-color: 	#dcdcdc;
+}
+
+/*THIS IS THE LOGO END PORTION*/
+
+/*THIS IS THE MENU PORTION*/
+.navigation {
+	padding: 10px;
+	width: 28%;
+    display: flex;
+    /*float: left;*/
+    margin: -46px auto;
+    font-family: cursive;
+    /*flex-direction: row;*/
+    justify-content: center;
+}
+
+a:hover{
+	background-color: #dc143c;
+	border-radius: 10px;
+}
+
+
+
+
+.navigation ul{
+	display: flex;
+	/*float: left;*/
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+
+.navigation ul li ul li a{
+	float: none;
+	display: block;
+}
+
+.navigation ul li ul{
+	display: none;
+	/*position: absolute;*/
+}
+
+.navigation ul li:hover ul{
+	display: none;
+}
+
+li{
+	list-style: none;
+}
+
+li a{
+	text-decoration: none;
+	color: black;
+	padding: 16px;
+}
+
+/*THIS IS THE END OF MENU PORTION*/
+
+
+/*THIS IS THE RIGHT BUTTONS PORTION*/
+.Right{
+	float: right;
+	margin-top: 0px;
+
+}
+
+button{
+	background-color: 	#dc143c;
+  border: none;
+  color: white;
+  padding: 11px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /*margin:-52px 0px;*/
+  margin: -11px 7px;
+  cursor: pointer;
+  font-family: cursive;
+
+}
+
+button:hover{
+	background-color: black;
+}
+/*THIS IS THE END OF RIGHT BUTTONS PORTION*/
+
+
+
+/*THIS IS THE START OF (CENTER PORTION)*/
+
+.center img{
+	position: absolute;
+width: 2000px;
+height: 405px;
+left: 169px;
+top: 10px;
+float: center;
+}
+
+#para{
+	position: absolute;
+width: 430px;
+height: 258px;
+left: 72px;
+top: 173px;
+font-style: normal;
+font-size: 45px;
+line-height: 75px;
+text-align: center;
+color: #FFFFFF;
+font-family: cursive;
+}
+
+.center button{
+	position: absolute;
+width: 210px;
+height: 58px;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 39px;
+text-align: center;
+color: #FFFFFF;
+border: none;
+font-family: cursive;
+}
+
+#Read{
+	background: #6464ff;
+	margin: 169px;
+	margin-top: 358px;
+}
+
+#Read:hover{
+	background: black;
+}
+
+/*THIS IS THE END OF (CENTER PORTION)*/
+
+
+/*THIS IS THE SERVICES PORTION*/
+#Services{
+	position: absolute;
+width: 184px;
+height: 50px;
+left: 594px;
+top: 639px;
+font-family: cursive;
+font-size: 28px;
+line-height: 45px;
+text-align: center;
+border: 1px solid;
+border-radius: 34px;
+border-style: none;
+background-color: #dc143c;
+color: white;
+}
+
+
+#Engine{
+	position: absolute;
+width: 205px;
+height: 123px;
+left: 190px;
+top: 725px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+
+
+#Washing{
+	position: absolute;
+width: 205px;
+height: 123px;;
+left: 570px;
+top: 725px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+#Detailing{
+	position: absolute;
+width: 205px;
+height: 123px;
+left: 910px;
+top: 725px;
+background: white;
+color: #dc143c;
+font-family: cursive;
+border-radius: 20px;
+}
+
+#Polishing{
+	position: absolute;
+width: 205px;
+height: 123px;
+left: 1018px;
+top: 700px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+#Urgent{
+	position: absolute;
+width: 205px;
+height: 123px;
+
+left: 190px;
+top: 915px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+#General{
+	position: absolute;
+width: 205px;
+height: 123px;
+
+left: 570px;
+top: 915px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+#Accessories{
+	position: absolute;
+width: 205px;
+height: 143px;
+left: 910px;
+top: 915px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+#Installation{
+	position: absolute;
+width: 205px;
+height: 123px;
+
+left: 910px;
+top: 915px;
+background: white;
+color: #dc143c;
+border-radius: 20px;
+font-family: cursive;
+}
+
+
+#foot,foot1 {
+	color: white;
+	margin-top: 1130px;
+	background-color: black;
+	padding: 20px;
+	font-family: cursive;
+    text-align: center;
+}
+
+
+
+
+/*SECONd PART OF CSS*/
+/*ThIS IS THE FORM PORTION*/
+
+.back{
+	background-color: 	#dcdcdc;
+}
+
+/*THIS IS THE ENINE TUNEUP SECTION*/
+.centere img{
+	position: absolute;
+width: 1341px;
+height: 517px;
+left: 80px;
+top: 87px;
+float: center;
+}
+
+#Reade{
+	background: #6464ff;
+	margin: 169px;
+	margin-top: 358px;
+}
+
+#Reade:hover{
+	background: black;
+}
+
+.centere button{
+	position: absolute;
+width: 210px;
+height: 58px;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 39px;
+text-align: center;
+color: #FFFFFF;
+border: none;
+font-family: cursive;
+}
+
+
+
+
+
+#paraa{
+	position: absolute;
+width: 430px;
+height: 258px;
+left: 20px;
+top: 200px;
+font-style: normal;
+font-size: 51px;
+line-height: 75px;
+text-align: center;
+color: black;
+font-family: cursive;
+}
+
+
+
+.centerw img{
+	position: absolute;
+width: 1342px;
+height: 515px;
+left: 80px;
+top: 87px;
+float: center;
+}
+
+#cn a{
+	text-decoration: none;
+	color: white;
+}
+
+#cn{
+	position: absolute;
+width: 275px;
+height: 70px;
+left: 537px;
+top: 820px;
+
+font-family: cursive;
+font-weight: bold;
+font-size: 20px;
+line-height: 45px;
+text-align: center;
+border-radius: 10px;
+color: #FFFFFF;
+}
+
+
+.content{
+	position: absolute;
+width: 1244px;
+height: 200px;
+left: 20px;
+top: 630px;
+text-align: center;
+float: center;
+font-family: cursive;
+font-size: 19px;
+line-height: 31px;
+margin-left: 60px;
+color: #000000;
+}
+
+
+/*LOGIN PAGE STARTS HERE*/
+#backc{
+	background-color: #dcdcdc;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+form{
+	font-family: sans-serif;
+	margin-top: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.login-register-text a{
+	text-decoration: none;
+}
+
+input{
+	padding: 12px;
+	width: 320px;
+	border-style: 1px solid black;
+}
+
+.boundry{
+	border: 1px solid white;
+	background-color: white;
+	margin-top: 70px;
+	margin-left: 350px;
+	margin-right: 350px; 
+	margin-bottom: 20px;
+}
+
+/*Loging page css end here*/
+
+
+
+/*Sign up page css*/
+
+.singbar{
+	border: 1px solid white;
+	background-color: white;
+	margin-top: 25px;
+	margin-left: 350px;
+	margin-right: 350px; 
+	margin-bottom: 10px;
+}
+
+#back{
+	background-color: #dcdcdc;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+#out{
+	background-color: 	#dc143c;
+  border: none;
+  color: white;
+  padding: 14px 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: cursive;
+}
+/*Createaccount page css end here*/
+
+/*about us css*/
+
+.sideimg img{
+	position: absolute;
+width: 602px;
+margin-top: 70px;
+height: 400px;
+left: 706px;
+top: 100px;
+opacity: 0.8;
+}
+
+.sideimg img:hover{
+	opacity: 1.2;
+}
+
+
+.Abouth1 h1{
+	height: 90px;
+	margin-bottom: 40px;
+	margin-top: 160px;
+    width: 200px;
+    margin-left: 108px;
+    font-family: Righteous;
+}
+
+.Abouth1 p{
+	height: 360px;
+	margin-bottom: 40px;
+	margin-top: -70px;
+    width: 390px;
+    margin-left: 108px;
+    font-size: 40px;
+    font-family: Righteous;
+    color: #DD0000;
+}
+
+#Aboutc{
+    border-radius: 2px;
+    margin-top: 48px;
+    margin-left: 113px;
+    font-family: Righteous;
+}
+#Aboutc a{
+	text-decoration: none;
+	color: white;
+
+}
+
+
+/*SERVICES CSS*/
+
+#carser{
+	background-color: #fafafa;
+}
+
+#carser1{
+	background-color: solid white;
+}
+
+#services{
+position: absolute;
+width: 184px;
+height: 50px;
+left: 648px;
+top: 619px;
+font-family: cursive;
+font-size: 28px;
+line-height: 45px;
+text-align: center;
+border: 1px solid;
+/*border-radius: 34px;*/
+border-radius: 5px;
+background-color: #dc143c;
+color: white;
+}
+
+
+#s1{
+	position: absolute;
+width: 205px;
+height: 50px;
+left: 360px;
+top: 750px;
+padding-top: 20px;
+background: black;
+color: white;
+/*color: #dc143c;*/
+text-align: center;
+border-radius: 5px;
+font-family: cursive;
+}
+
+
+
+#s2{
+	position: absolute;
+width: 205px;
+height: 50px;
+left: 950px;
+top: 750px;
+padding-top: 20px;
+background: black;
+color: white;
+text-align: center;
+/*color: #dc143c;*/
+border-radius: 5px;
+font-family: cursive;
+}
+
+#s3{
+    position: absolute;
+    width: 205px;
+    height: 50px;
+    left: 360px;
+    top: 965px;
+    padding-top: 20px;
+    background: black;
+    color: white;
+    /*color: #dc143c;*/
+    text-align: center;
+    border-radius: 5px;
+    font-family: cursive;
+}
+
+
+
+#s4{
+	position: absolute;
+width: 205px;
+height: 50px;
+left: 950px;
+top: 965px;
+padding-top: 20px;
+background: black;
+color: white;
+text-align: center;
+border-radius: 5px;
+font-family: cursive;
+}
+
+
+
+#accessories{
+	position: absolute;
+width: 205px;
+height: 50px;
+left: 910px;
+top: 965px;
+padding-top: 20px;
+background: black;
+color: white;
+text-align: center;
+border-radius: 5px;
+font-family: cursive;
+}
+
+
+
+/*services*/
+
+.cenimg img{
+	position: absolute;
+    width: 1341px;
+    height: 517px;
+    left: 76px;
+    top: 87px;
+}
+
+
+.prev{
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 4px;
+  width: auto;
+  padding: 30px;
+  margin-top: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 1270px;
+  width: auto;
+  padding: 30px;
+  margin-top: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover {
+  background-color: #DC143C;
+}
+
+.next:hover 
+{
+  background-color: #DC143C;
+  width: 12px;
+}
+
+#image3 img{
+	width: 1340px;
+	margin-left: -162px;
+	height: 480px;
+	margin-top: 140px;
+}
+
+
+body
+ {
+	font-family: Verdana, sans-serif; margin:0;
+ }
+.mySlides {
+	display: none;
+}
+img {vertical-align: middle;}
+
+.center img{
+	width: 1340px;
+	margin-left: -162px;
+	height: 480px;
+	margin-top: 140px;
+}
+
+/*THIS IS CONTACT FORM CSS*/
+
+/**{
+	margin:0px;
+	padding: 0px;
+
+}*/
+
